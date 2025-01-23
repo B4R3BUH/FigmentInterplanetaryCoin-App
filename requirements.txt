@@ -1,0 +1,4 @@
+kivy==2.3.0
+sqlite3
+PyMySQL==1.1.1
+plyer==2.1.0
